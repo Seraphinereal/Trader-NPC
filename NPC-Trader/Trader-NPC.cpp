@@ -1,6 +1,6 @@
-//A Divine Encounter
+//Trading with a Traveling Merchant
 #include <iostream> //for cout and cin
-#include <string> //WHY ISNT THIS INCLUDED BY DEFAULT???
+#include <string> //WHY ISNT THIS INCLUDED BY DEFAULT?
 
 void clearScreen() {
 	std::cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";

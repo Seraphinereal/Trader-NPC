@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NPC-Trader"
   ],
+  "SelectedNode": "\\NPC-Trader\\Trader-NPC.cpp",
   "PreviewInSolutionExplorer": false
 }
