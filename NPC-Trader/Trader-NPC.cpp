@@ -8,32 +8,17 @@ void clearScreen() {
 
 int main()
 {
-
+	
 	std::string userChoice = "";
-	std::string angelGifts[10] = { "[1] Wealth", "[2] Fame", "[3] Power", "[4] Rejuvination", "[5] Wisdom", "[6] Blade of Midas", "[7] Scroll of Flame Enlightenment", "[8] Index of Body Transfiguration", "[9] Crown of Fell Gob", "[10] Subspace Domain Key" };
-	std::string inventory[2] = { "One", "Two" };
-	int itemsRemaining = 2;
+	vector<std::string> userInv; 
+
+	vector<std::string> npcInv;
+	npcInv.push_back("test");
+	int userBalance = 157;
 	int patience = 0;
 
-	// This is to make wishes not repeatable (booleans weren't working for some reason)
-	int wealthWish = 1;
-	int fameWish = 1;
-	int powerWish = 1;
-	int rejuvWish = 1;
-	int wisdomWish = 1;
-	int midasWish = 1;
-	int scrollWish = 1;
-	int indexWish = 1;
-	int gobbyWish = 1;
-	int keyWish = 1;
-
 	//Startup dialogue
-	std::cout << "\tYou narrowly escape a desolate warzone to the cover of an untouched forest. \n";
-	std::cout << "Stumbling tree to tree, searching for a place to rest, your eyes land upon a marble fountain. \n";
-	std::cout << "As you approach, water begins to flow into the fountain. The water eminates a golden aura, \n";
-	std::cout << "enticing you to come closer. Reaching your hand towards the water, a heavenly ray of light \n";
-	std::cout << "descends onto you. Looking up, your eyes meet with a beautiful glowing angel. \n";
-	std::cout << "\"Welcome denizen of Earth, what does one's mortal heart yearn for in this moment?\"\n";
+	std::cout << "\tHello Traveler, have a look at my wares.\n";
 
 	//Gameplay loop
 	for (int wishes = 3; wishes > 0; ++patience)
