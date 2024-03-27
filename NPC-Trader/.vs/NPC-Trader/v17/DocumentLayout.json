@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VisualStudio22\\NPC-Trader\\",
+  "WorkspaceRootPath": "D:\\VisualStudio22\\Trader-NPC\\NPC-Trader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4CA89E8-8E13-432D-95E4-4E5DE33DD612}|NPC-Trader.vcxproj|D:\\VisualStudio22\\NPC-Trader\\Trader-NPC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D4CA89E8-8E13-432D-95E4-4E5DE33DD612}|NPC-Trader.vcxproj|D:\\VisualStudio22\\Trader-NPC\\NPC-Trader\\Trader-NPC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D4CA89E8-8E13-432D-95E4-4E5DE33DD612}|NPC-Trader.vcxproj|solutionrelative:Trader-NPC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Trader-NPC.cpp",
-              "DocumentMoniker": "D:\\VisualStudio22\\NPC-Trader\\Trader-NPC.cpp",
+              "DocumentMoniker": "D:\\VisualStudio22\\Trader-NPC\\NPC-Trader\\Trader-NPC.cpp",
               "RelativeDocumentMoniker": "Trader-NPC.cpp",
-              "ToolTip": "D:\\VisualStudio22\\NPC-Trader\\Trader-NPC.cpp",
+              "ToolTip": "D:\\VisualStudio22\\Trader-NPC\\NPC-Trader\\Trader-NPC.cpp",
               "RelativeToolTip": "Trader-NPC.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAARAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-22T15:59:35.615Z",
+              "WhenOpened": "2024-03-27T13:57:06.342Z",
               "EditorCaption": ""
             }
           ]
